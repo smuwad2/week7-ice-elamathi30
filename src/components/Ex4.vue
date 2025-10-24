@@ -4,4 +4,5 @@
 
 <template>
     <ViewPosts />
+    hi
 </template>
